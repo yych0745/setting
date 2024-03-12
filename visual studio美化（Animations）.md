@@ -18,6 +18,6 @@
 
 使用插件[VSCode Animations](https://marketplace.visualstudio.com/items?itemName=BrandonKirbyson.vscode-animations#injection-extensions)
 
-其中会需要其它的插件，目前有[Apc Customize UI++](https://github.com/drcika/apc-extension)以及[Custom CSS and JS](https://github.com/be5invis/vscode-custom-css)选择。如果不熟悉推荐直接用Apc Custromize UI++，直接一键设置。Custom可以熟练后再使用，自定义更多，注意两个插件只能安装一个。
+其中会需要其它的插件，目前有[Apc Customize UI++](https://github.com/drcika/apc-extension)以及[Custom CSS and JS](https://github.com/be5invis/vscode-custom-css)选择。如果不熟悉推荐直接用Apc Custromize UI++，安装后有默认设置。Custom可以熟练后再使用，自定义更多，注意两个插件只能安装一个。
 
 其中mac用户要注意将软件放到Application（应用程序下）不然会有权限问题。如果上面插件有问题，大概率是权限没有给到，在页面里都有相应的权限设置。
