@@ -2,7 +2,7 @@
  * @Author: yuyancheng yuyancheng@meituan.com
  * @Date: 2024-03-12 10:07:47
  * @LastEditors: yuyancheng yuyancheng@meituan.com
- * @LastEditTime: 2024-03-12 10:08:07
+ * @LastEditTime: 2024-03-12 10:38:36
  * @FilePath: /setting/visual studio美化（Animations）.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -10,9 +10,20 @@
 
 ## 鼠标设置
 
+### 鼠标平滑
+
 如果单独鼠标可以不用插件，直接通过设置进行修改。
 
 [开启Cursor Smooth Caret Animation就可以。](https://www.163.com/dy/article/HOTJMSOE0552DTRT.html)
+
+### 鼠标样式
+
+setting中进行设置
+
+```json
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking":"expand",
+```
 
 ## 全面优化
 
