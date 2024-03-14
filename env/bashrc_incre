@@ -1,0 +1,2 @@
+export MAVEN_HOME=~/env/bin/apache-maven-3.8.8
+export PATH=$PATH:$MAVEN_HOME/bin
